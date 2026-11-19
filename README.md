@@ -49,13 +49,13 @@ All you need is a C compiler, such as **GCC**.
 **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/prerna405/Prerna_Assignment_sem1_cfiles.git
 ```
 
 **Navigate to the project**
 
 ```bash
-cd YOUR-REPO
+cd https://github.com/prerna405/Prerna_Assignment_sem1_cfiles.git
 ```
 
 **Compile a program**
