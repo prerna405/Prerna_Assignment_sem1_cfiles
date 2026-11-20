@@ -1,3 +1,18 @@
+/*
+ * Problem Name          : N-Queens
+ * LeetCode Problem No.  : 51
+ * Topic                 : ALGORITHMS
+ * Problem Link          : https://leetcode.com/problems/n-queens/
+ *
+ * Problem Description:
+ * Given an integer n, determine all possible ways to position
+ * n queens on an n x n chessboard such that no two queens can
+ * attack each other.
+ *
+ * A valid arrangement ensures that no two queens share the
+ * same row, column, or diagonal.
+ */
+
 #include <stdlib.h>
 #include <string.h>
 
