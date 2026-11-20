@@ -1,3 +1,19 @@
+/*
+ * Problem Name          : Sudoku Solver
+ * LeetCode Problem No.  : 37
+ * Topic                 : ALGORITHMS
+ * Problem Link          : https://leetcode.com/problems/sudoku-solver/
+ *
+ * Problem Description:
+ * Given a partially filled 9 x 9 Sudoku board, complete the
+ * puzzle by assigning digits from 1 to 9 to the empty cells.
+ *
+ * A valid solution must ensure that each digit appears exactly
+ * once in every row, every column, and each 3 x 3 subgrid.
+ *
+ * The puzzle must be solved without violating any Sudoku rules.
+ */
+
 #include <stdbool.h>
 
 bool isValid(char board[9][9], int row, int col, char num) {
