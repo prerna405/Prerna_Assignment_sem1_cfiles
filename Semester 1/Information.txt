@@ -1,0 +1,6 @@
+This folder contains all the programming files and source codes that I personally wrote, practiced, and successfully completed during my first semester.
+Each program was developed as part of my academic coursework and has been reviewed and approved.
+The files are organized for easy access, reference, revision, and future learning.
+Status: Completed and Approved
+Semester: 1
+Contents: Programming Source Codes and Academic Practical Work
