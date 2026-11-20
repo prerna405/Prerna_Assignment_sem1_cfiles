@@ -1,3 +1,20 @@
+/*
+ * Problem Name          : 4Sum
+ * LeetCode Problem No.  : 18
+ * Topic                 : ARRAYS
+ * Problem Link          : https://leetcode.com/problems/4sum/
+ *
+ * Problem Description:
+ * Given an array of n integers and a target value, find all
+ * unique quadruplets whose sum is equal to the given target.
+ *
+ * Each quadruplet must contain four elements from distinct
+ * indices of the array.
+ *
+ * The resulting array should include all valid combinations
+ * without any duplicate quadruplets.
+ */
+
 #include <stdlib.h>
 
 int compare(const void *a, const void *b) {
