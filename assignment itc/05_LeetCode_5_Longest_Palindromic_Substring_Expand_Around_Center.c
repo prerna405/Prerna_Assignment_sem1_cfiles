@@ -1,3 +1,20 @@
+/*
+ * Problem Name          : Longest Palindromic Substring
+ * LeetCode Problem No.  : 5
+ * Topic                 : STRINGS
+ * Problem Link          : https://leetcode.com/problems/longest-palindromic-substring/
+ *
+ * Problem Description:
+ * Given a string s, find and return the longest substring
+ * that reads the same forward and backward.
+ *
+ * A palindrome is a sequence of characters that remains
+ * unchanged when its order is reversed.
+ *
+ * The solution must identify the longest continuous
+ * palindromic sequence within the given string.
+ */
+
 char* longestPalindrome(char* s) {
     int n = strlen(s);
 
